@@ -2,3 +2,6 @@
 playbook for rust
 
 ## rust install
+
+## hello world
+
