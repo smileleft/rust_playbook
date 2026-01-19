@@ -11,11 +11,11 @@ https://rust-lang.org/tools/install/
 
 ```bash
 rustup update
-```bash
+```
 
 ## Install rustfmt
 
 ```bash
 rustup component add rustfmt
-```bash
+```
 
