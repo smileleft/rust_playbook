@@ -2,9 +2,9 @@
 playbook for rust
 
 ## rust install
-`
+```bash
 https://rust-lang.org/tools/install/
-`
+```
 
 ## Update rustup
 `
