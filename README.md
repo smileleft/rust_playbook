@@ -6,5 +6,8 @@ playbook for rust
 https://rust-lang.org/tools/install/
 `
 
-## hello world
+## Install rustfmt
+`
+rustup component add rustfmt
+`
 
